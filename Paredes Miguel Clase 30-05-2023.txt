@@ -7,4 +7,3 @@ Getters: Nos permite enseñar el valor que se ha almacenado en las vaiables.
 Puntero: Sirve para almacenar informacion en la misma variable.
 Constructor: Sirve para almacenar la informacion de los atributos, puede ser utilizada de forma individual o se puede presentar todos los atributos de un objeto
 Git hub: Plataforma en la que desarroladores de software comparten codigo y se ayudan mutuamente a verificar errores, a mejorarlo y a crearlo.
-Programacion Orientada a Objetos
