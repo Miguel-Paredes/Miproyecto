@@ -8,4 +8,9 @@ Puntero: Sirve para almacenar informacion en la misma variable.
 Constructor: Sirve para almacenar la informacion de los atributos, puede ser utilizada de forma individual o se puede presentar todos los atributos de un objeto
 Git hub: Plataforma en la que desarroladores de software comparten codigo y se ayudan mutuamente a verificar errores, a mejorarlo y a crearlo.
 Programacion Orientada a Objetos = POO
+<<<<<<< HEAD
 Prueba
+=======
+
+Los cambios remotos deben tomarse en cuenta
+>>>>>>> 9def0945c0b08bda838ce263673af298fd8aa0d9
