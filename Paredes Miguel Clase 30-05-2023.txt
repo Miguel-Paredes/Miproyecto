@@ -13,4 +13,8 @@ Prueba
 =======
 
 Los cambios remotos deben tomarse en cuenta
+<<<<<<< HEAD
 >>>>>>> 9def0945c0b08bda838ce263673af298fd8aa0d9
+=======
+no se notan los cambios
+>>>>>>> ef3cc8ec3d435e1a7aa7035dc29a608c13d70bf2
