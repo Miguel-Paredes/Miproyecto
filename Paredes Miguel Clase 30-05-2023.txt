@@ -10,3 +10,4 @@ Git hub: Plataforma en la que desarroladores de software comparten codigo y se a
 Programacion Orientada a Objetos = POO
 
 Los cambios remotos deben tomarse en cuenta
+no se notan los cambios
